@@ -1,4 +1,4 @@
 # snake
 a Quick and easy snake game
 
-Just a simple snake afternoon project I finished a while ago when I was bored
+Just a simple snake afternoon project I made a while ago when I was bored
